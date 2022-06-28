@@ -2,8 +2,6 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Scanner;
 
-import static jdk.nashorn.internal.objects.NativeMath.round;
-
 public class main {
     public static void main(String[] args) {
         System.out.println("Guten Tag. Das hier ist ein Zinseszins Rechner ");
